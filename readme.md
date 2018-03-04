@@ -2,7 +2,7 @@
 
 This docker image adds kubectl and authentication during startup to the [google/cloud-sdk:alpine](https://hub.docker.com/r/google/cloud-sdk/) image.
 
-## Basic useage
+## Basic usage
 
 To get a bash prompt on an authed gcloud container run:
 
