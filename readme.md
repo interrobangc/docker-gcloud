@@ -1,6 +1,6 @@
 # interrobangc/gcloud
 
-This docker image adds kubectl and authentication during startup to the [google/cloud-sdk:alpine](https://hub.docker.com/r/google/cloud-sdk/) image.
+This docker image adds kubectl, helm, and authentication during startup to the [google/cloud-sdk:alpine](https://hub.docker.com/r/google/cloud-sdk/) image.
 
 ## Basic usage
 
